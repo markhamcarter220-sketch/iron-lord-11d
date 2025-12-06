@@ -4,5 +4,5 @@ pymongo
 python-dotenv
 gunicorn
 requests
-pydantic
+pydantic==1.10.13
 aiohttp
